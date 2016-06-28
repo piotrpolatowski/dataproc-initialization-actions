@@ -62,6 +62,6 @@ else
 fi
 
 echo "Activating $CONDA_ENV_NAME environment..."
-source activate $CONDA_ENV_NAME
+# source activate $CONDA_ENV_NAME
 
 
